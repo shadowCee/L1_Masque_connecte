@@ -11,5 +11,6 @@ A l'aide de Node red, lorsque le masque n'est plus efficace nous alertons l'util
 # Materiels utilisés
 - Carte Arduino pro mini (ATmega328P : 3.3V ; 8 MHz)
 - Capteur : BME/BMP 280
+- Capteur : TEMT 6000
 - Capteur de gaz : CCS 811
 - Un stylo 3D
