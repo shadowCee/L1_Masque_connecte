@@ -57,4 +57,4 @@ Suite au problème du capteur dysfonctionnel, mon binôme m'a fait part que le c
 
 - Le 13 mai :
 
-J'ai envoyé par message à mon binôme les codes des triggers sur node afin qu'il les teste. J'ai crée le répertoire sur github et commencer à éditer notre projet.
+J'ai envoyé par message à mon binôme les codes des triggers sur node afin qu'il les teste. J'ai crée le répertoire sur github et commencer à éditer notre projet. J'ai essayé de poster une photo sur la page principale.
