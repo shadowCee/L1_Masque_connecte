@@ -13,6 +13,7 @@ On a confirmé notre projet auprès des enseignants. Je me suis occupée du circ
 J'ai monté le circuit. J'ai identifié les capteurs et fait des recherches pour trouver les codes à utiliser sur Arduino. J'ai imaginé un système de pince reliant les capteurs pour accrocher sous le masque.
 
 - Séance du 12 avril :
+
 J'ai montré les codes à mon binôme et fait vérifer par les enseignants. Les codes sont fonctionnels mais on avait un problème de circuit. J'ai changé de carte, de board puis les fils pour identifer le problème.(Problème résolu)
 
 - Le 18 avril :
