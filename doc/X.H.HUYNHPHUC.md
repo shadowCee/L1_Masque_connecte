@@ -18,7 +18,7 @@ J'ai montré les codes à mon binôme et fait vérifer par les enseignants. Les 
 
 - Le 18 avril :
 
-J'ai fais tester le masque à quelques personnes de ma famille (mon neuveu 18 ans, mon frère 40 ans) qui ont bien voulu garder pendant quelques minutes. Je voulais voir par rapport à la tranche d'âge de chaque personne, les variations des paramètres. N'ayant pas pu tester plus longtemps, j'ai abandonné l'idée de classer par tranche d'âge.
+J'ai fais tester le masque à quelques personnes de ma famille (mon neveu 18 ans, mon frère 40 ans) qui ont bien voulu garder pendant quelques minutes. Je voulais voir par rapport à la tranche d'âge de chaque personne, les variations des paramètres. N'ayant pas pu tester plus longtemps, j'ai abandonné l'idée de classer par tranche d'âge.
 J'ai crée sur tinkercad une maquette de boîte pour le circuit.
 
 - Séance du 19 avril : 
