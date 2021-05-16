@@ -23,7 +23,11 @@ J'ai crée sur tinkercad une maquette de boîte pour le circuit.
 
 - Séance du 19 avril : 
 
-On a réfléchi à comment combiner les 2 codes et alléger les codes pour rendre le programme éxécutable.  J'ai montré à mon binôme les tests effctué sur mes "cobayes" et la maquette du boîtier. Le fablab n'ayant pas de superviseur, je n'ai pas pu imprimer la boîte.
+On a réfléchi à comment combiner les 2 codes et alléger les codes pour rendre le programme éxécutable.  J'ai montré à mon binôme les tests effctué sur mes "cobayes" et la maquette du boîtier avec un sytème d'accroche. Le fablab n'ayant pas de superviseur, je n'ai pas pu imprimer la boîte.
+
+![boitier 3D](https://user-images.githubusercontent.com/84131336/118410563-5f93ce00-b690-11eb-84e2-05bcba671fd4.PNG)
+![boitier 3D(2)](https://user-images.githubusercontent.com/84131336/118410581-6f131700-b690-11eb-9592-748f759b7120.PNG)
+
 
 - Séance du 26 avril : 
 
