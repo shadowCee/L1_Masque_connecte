@@ -59,3 +59,8 @@ Suite au problème du capteur dysfonctionnel, mon binôme m'a fait part que le c
 - Le 13 mai :
 
 J'ai envoyé par message à mon binôme les codes des triggers sur node afin qu'il les teste. J'ai crée le répertoire sur github et commencer à éditer notre projet. J'ai essayé de poster une photo sur la page principale.
+
+- Le 16 mai :
+
+J'ai remis au propre et comparer les tests effécutés. J'ai fait des recherches sur les risques liés à l'exposition d'une forte quantité de CO2 sur la santé.
+J'ai commencé à faire les slides pour la présentation finale et à déposer mes tests et travaux sur github.
