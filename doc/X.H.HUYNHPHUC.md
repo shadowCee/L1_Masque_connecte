@@ -40,7 +40,11 @@ Je me suis procurée une tête de mannequin pour placer le masque et le circuit.
 
 - Le 08 mai :
 
-N'ayant pas pu créer mon boîtier, j'ai eu l'idée de le créer à l'aide d'un stylo 3D. Les premiers essais n'étaient pas top mais j'ai réussi à fabriquer le boîtier. J'ai ensuite continué à faire les tests avec un masque en tissu néoprène puis avec le masque chirurgical.
+N'ayant pas pu créer mon boîtier, j'ai eu l'idée de le créer à l'aide d'un stylo 3D. Les premiers essais n'étaient pas top mais j'ai réussi à fabriquer le boîtier.
+
+![Boîtier S3D](https://user-images.githubusercontent.com/84131336/118410907-278d8a80-b692-11eb-89d6-c025b0b355f3.PNG)
+
+J'ai ensuite continué à faire les tests avec un masque en tissu néoprène puis avec le masque chirurgical.
 
 - Le 09 mai :
 
