@@ -10,7 +10,12 @@ Le masque est doté de capteurs de température, d'humidité, de pression et de 
 
 A l'aide de Node red, lorsque le masque n'est plus efficace nous alertons l'utilisateur par envoi de notification par l'email afin que ce dernier puisse changer de masque.
 
-# Materiels utilisés
+# Logiciels
+- Arduino_IDE
+- Node red
+- Word/Excel/Powerpoint
+
+# Matériels utilisés
 - Carte Arduino pro mini (ATmega328P : 3.3V ; 8 MHz)
 - Capteur : BME/BMP 280
 - Capteur : TEMT 6000
