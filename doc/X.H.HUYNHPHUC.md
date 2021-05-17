@@ -78,3 +78,7 @@ J'ai commencé à faire les slides pour la présentation finale et à déposer m
 J'ai du me rendre à la fac car mon binôme n'arrivait pas à faire marcher le circuit. Je l'ai aidé à chercher le problème puis j'ai continué faire les slides de présentation. Ce soir, mon binôme m'a envoyée les derniers code sur node et les screens pour que je puisse finir le github et la présentation finale du projet.
 Le github est presque fini plus qu'à rajouter les présentations intermédiare et finale.
 J'ai rajouté la partie de node red sur la présentation finale.
+
+- Le 18 mai :
+
+J'ai terminé les slides pour la présentation finale à l'oral. Je vais envoyer le fichier à mon binôme pour qu'il voie s'il y a des modifications à apporter.
