@@ -86,3 +86,5 @@ J'ai terminé les slides pour la présentation finale à l'oral. Je vais envoyer
 - Le 20 mai:
 
 J'ai fait des dernières photos pour la page de présentation. J'ai cherché à comment positionner le boitier pour la présentation finale du projet. J'ai déposé les sildes de la présentationfinale sur github.
+
+![masque présentation](https://user-images.githubusercontent.com/84131336/119029283-bbb86400-b9a8-11eb-827d-96d3271d4f5b.jpg)
