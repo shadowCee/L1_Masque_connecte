@@ -82,3 +82,7 @@ J'ai rajouté la partie de node red sur la présentation finale.
 - Le 18 mai :
 
 J'ai terminé les slides pour la présentation finale à l'oral. Je vais envoyer le fichier à mon binôme pour qu'il voie s'il y a des modifications à apporter.
+
+- Le 20 mai:
+
+J'ai fait des dernières photos pour la page de présentation. J'ai cherché à comment positionner le boitier pour la présentation finale du projet. J'ai déposé les sildes de la présentationfinale sur github.
