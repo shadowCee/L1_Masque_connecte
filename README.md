@@ -2,7 +2,8 @@
 Ce projet est réalisé dans le cadre du module Communication Sans Fil en Licence 1 à l’Université Nice Sophia Antipolis.
 Le projet a été réalisé par Anas EL GANA et X.H. HUYNH PHUC pour la licence 1.
 
-![masque-essai photo](https://user-images.githubusercontent.com/84131336/118139329-85f30880-b407-11eb-8a1f-42652dfd584f.png)
+![Photo finale](https://user-images.githubusercontent.com/84131336/119023893-c4a63700-b9a2-11eb-9da1-7a18ef13923b.png)
+
 
 
 # Description du projet
