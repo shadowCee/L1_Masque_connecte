@@ -39,7 +39,6 @@ qui est gratuit en version TRIAL.
 En suite après avoir installé la palette lié à twilio j ai pu inserer les donné concernant la configuration mobile avec un TOKEN, ACCOUNT SID et enfin un VOIP voice overIP un tout à fait numero de telephone qui me permet d'envoyer à n'importe qui un message, seulement à des numero verifié pour la version TRIAL.
 
 Puis j'ai fais en sorte de pouvoir modifier à mon goût le message grâce au msg.payload et de pouvoir recevoir le message en modifiant la même fonction utilisé pour l'email
-- Le 16 mai :
 
 
 Après cela j'ai fais mes test presents dans la presentation finale et j'ai données le materiel fini à mon collegue pour discuter de comment faire l'oral et de comment assembler tout les données acquis pendant le projet.
