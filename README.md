@@ -13,7 +13,7 @@ A l'aide de Node red, lorsque le masque n'est plus efficace nous alertons l'util
 
 # Logiciels
 - Arduino_IDE
-- Node red
+- Node JS
 - Word/Excel/Powerpoint
 
 # Matériels utilisés
